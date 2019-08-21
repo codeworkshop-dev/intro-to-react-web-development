@@ -15,15 +15,15 @@ A few tools are required to complete this workshop.
 
 These tools would be helpful to you as you work.
 
-- Github Account and Git [Github](https://github.com/)
+- Github Account and Git - [Github](https://github.com/)
 
 ## Resources
 
 Helpful documents and tools we may refer to as a reference during the workshop.
 
-- React Documentation [ReactJS](https://reactjs.org/docs/getting-started.html)
-- TailwindCSS [TailwindCSS](https://tailwindcss.com/)
-- React Router[React Router 4.0](https://reacttraining.com/react-router/web/guides/quick-start)
+- React Documentation - [ReactJS](https://reactjs.org/docs/getting-started.html)
+- TailwindCSS - [TailwindCSS](https://tailwindcss.com/)
+- React Router - [React Router 4.0](https://reacttraining.com/react-router/web/guides/quick-start)
 
 ## Starting the project
 
